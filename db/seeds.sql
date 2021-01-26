@@ -1,0 +1,2 @@
+INSERT INTO burgers (burger_name, devoured) 
+VALUES ("maybe veggie burger"), ("artificial cheeseburger"), (" just bacon burger"), ("not chicken burger"), (" plain ol burger"), ("itsa turkey burger"), ("impossible possible burger");
